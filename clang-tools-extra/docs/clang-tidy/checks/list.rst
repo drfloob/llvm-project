@@ -325,6 +325,7 @@ Clang-Tidy Checks
    `portability-simd-intrinsics <portability/simd-intrinsics.html>`_,
    `portability-std-allocator-const <portability/std-allocator-const.html>`_,
    `readability-avoid-const-params-in-decls <readability/avoid-const-params-in-decls.html>`_, "Yes"
+   `readability-banned-atomic-increment-operator <readability/banned-atomic-increment-operator.html>`_, "Yes"
    `readability-braces-around-statements <readability/braces-around-statements.html>`_, "Yes"
    `readability-const-return-type <readability/const-return-type.html>`_, "Yes"
    `readability-container-contains <readability/container-contains.html>`_, "Yes"

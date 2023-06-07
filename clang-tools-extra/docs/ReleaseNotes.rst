@@ -129,6 +129,11 @@ New checks
   Warns when `empty()` is used on a range and the result is ignored. Suggests `clear()`
   if it is an existing member function.
 
+- New :doc:`readability-banned-atomic-increment-operator
+  <clang-tidy/checks/readability/banned-atomic-increment-operator>` check.
+
+  FIXME: add release notes.
+
 New check aliases
 ^^^^^^^^^^^^^^^^^
 
