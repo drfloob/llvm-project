@@ -16,3 +16,4 @@ i++;
 
 // Does not trigger the check
 i.fetch_add(1);
+
